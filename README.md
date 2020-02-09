@@ -1,5 +1,5 @@
 
-AUTHOR: [@dirkjobosman][1_Author]
+### AUTHOR: [@dirkjobosman][1_Author]
 
 **Articles**
 * [Principles][1_Articles] (Principles, Philosophies, Outlook)
@@ -7,7 +7,7 @@ AUTHOR: [@dirkjobosman][1_Author]
 
 ---
 
-AUTHOR: [@pythonflow][2_Author]
+### AUTHOR: [@pythonflow][2_Author]
 
 **Tutorials**
 * [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (Python, Google Colab, Blogging)
@@ -18,7 +18,7 @@ AUTHOR: [@pythonflow][2_Author]
 
 ---
 
-AUTHOR: [@dirkeedirkee][3_Author]
+### AUTHOR: [@dirkeedirkee][3_Author]
 
 **Principles**
 * To follow (Philosophies, Outlook, Reasoning)
@@ -26,7 +26,7 @@ AUTHOR: [@dirkeedirkee][3_Author]
 &nbsp;
 
 **Travel Stories**
-* ['n Nag uit in Berlyn][1_Travelstories] (@dirkee, Afrikaans, Berlyn, Techno)
+* ['n Nag uit in Berlyn][1_Travelstories] (Afrikaans, Berlyn, Techno)
 
 &nbsp;
 
@@ -36,9 +36,17 @@ AUTHOR: [@dirkeedirkee][3_Author]
 &nbsp;
 
 **Poems**
-* [O pencil my old friend][1_EN_Poems] (English)
-* [Seasons][2_EN_Poems] (English)
-* [The little rolling olive][3_EN_Poems] (English)
+1. O pencil my old friend
+    * [English][1_EN_Poems]
+    * Afrikaans: To follow.
+2. Seasons
+    * [English][2_EN_Poems]
+    * Afrikaans: To follow.
+3. The little rolling olive
+    * [English][3_EN_Poems]
+    * Afrikaans: To follow.
+
+
 * [Die geheimsinnige grapmaker][1_AFR_Poems] (Afrikaans)
 * [Geweef][2_AFR_Poems] (Afrikaans)
 * [Huppel][3_AFR_Poems] (Afrikaans)
