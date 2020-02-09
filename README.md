@@ -1,22 +1,27 @@
 **Principles & Philosophies**
 * To follow.
 
+---
 
 **Reflections**
 * [Decision Frameworks][1_Articles] (Decisions, Time management, Article)
 * Tips
 
+---
 
 **Tutorials**
 * [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (Python, Google Colab, Blogging)
 
+---
 
 **Software**
 
+---
 
 **Travelstories**
 * ['n Nag uit in Berlyn][1_Travelstories] (Afrikaans, Berlyn, Techno)
 
+---
 
 **Poems**
 * [O pencil my old friend][1_EN_Poems] (English)
@@ -31,6 +36,7 @@
 * [Soene][7_AFR_Poems] (Afrikaans)
 * [Wens weg][8_AFR_Poems] (Afrikaans)
 
+---
 
 **Lyrics**
 * [Semonkong's Adam en Eva][1_AFR_Lyrics] (Afrikaans)
