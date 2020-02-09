@@ -1,16 +1,15 @@
 **Principles**
-* To follow (Philosophies, Outlook, Reasoning)(Author: [@dirkjobosman][1_Author])
+* To follow (Philosophies, Outlook, Reasoning)
 
 ---
 
 **Reflections**
-* [Decision Frameworks][1_Articles] (Decisions, Time management, Article)(Author: @dirkjobosman)
-* Tips
+* [Decision Frameworks][1_Articles] by [@dirkjobosman][1_Author] (Decisions, Tips, Article)
 
 ---
 
 **Tutorials**
-* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (Python, Google Colab, Blogging)(Author: @pythonflow)
+* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (Python, Google Colab, Blogging)
 
 ---
 
@@ -44,6 +43,8 @@
 ---
 
 [1_Author]: https://twitter.com/dirkjobosman
+[2_Author]: https://twitter.com/dirkjobosman
+[3_Author]: https://twitter.com/dirkjobosman
 
 
 
