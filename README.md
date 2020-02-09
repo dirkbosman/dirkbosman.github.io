@@ -33,7 +33,7 @@
 &nbsp;
 
 **Principles**
-* To follow (`Philosophies`, `Outlook`, `Reasoning`)
+* To follow (`Philosophies`,`Manifesto`,`Ideology`,`Outlook`,`Reasoning`,`Thinking`,`Viewpoint`,`Wisdom`,`Convictions`,`Ontology`,`Reasoning`,`Values`)
 
 &nbsp;
 
