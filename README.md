@@ -2,15 +2,15 @@
 ### AUTHOR: [@dirkjobosman][1_Author]
 
 **Articles**
-* [Principles][1_Articles] (Principles, Philosophies, Outlook)
-* [Decision Frameworks][2_Articles] (Decisions, Tips, Reflection)
+* [Principles][1_Articles] (`Principles`, `Philosophies`, `Outlook`)
+* [Decision Frameworks][2_Articles] (`Decisions`, `Tips`, `Reflection`)
 
 ---
 
 ### AUTHOR: [@pythonflow][2_Author]
 
 **Tutorials**
-* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (Python, Google Colab, Blogging)
+* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (`Python`, `Google Colab`, `Blogging`)
 
 &nbsp;
 
@@ -21,12 +21,7 @@
 ### AUTHOR: [@dirkeedirkee][3_Author]
 
 **Principles**
-* To follow (Philosophies, Outlook, Reasoning)
-
-&nbsp;
-
-**Travel Stories**
-* ['n Nag uit in Berlyn][1_Travelstories] (Afrikaans, Berlyn, Techno)
+* To follow (`Philosophies`, `Outlook`, `Reasoning`)
 
 &nbsp;
 
@@ -35,33 +30,59 @@
 
 &nbsp;
 
+**Travel Stories**
+1. 'n Nag uit in Berlyn
+    * [Afrikaans][1_Travelstories] (`Music`, `Berlyn`, `Techno`)
+    * English: To follow.    
+
+&nbsp;
+
 **Poems**
 1. O pencil my old friend
+    * Afrikaans: To follow.
     * [English][1_EN_Poems]
-    * Afrikaans: To follow.
 2. Seasons
+    * Afrikaans: To follow.
     * [English][2_EN_Poems]
-    * Afrikaans: To follow.
 3. The little rolling olive
-    * [English][3_EN_Poems]
     * Afrikaans: To follow.
-
-
-* [Die geheimsinnige grapmaker][1_AFR_Poems] (Afrikaans)
-* [Geweef][2_AFR_Poems] (Afrikaans)
-* [Huppel][3_AFR_Poems] (Afrikaans)
-* [Om die draai][4_AFR_Poems] (Afrikaans)
-* [Ons Agterdam][5_AFR_Poems] (Afrikaans)
-* [So duif wat skyt][6_AFR_Poems] (Afrikaans)
-* [Soene][7_AFR_Poems] (Afrikaans)
-* [Wens weg][8_AFR_Poems] (Afrikaans)
+    * [English][3_EN_Poems]
+4. Die geheimsinnige grapmaker
+    * [Afrikaans][1_AFR_Poems]
+    * English: To follow.
+5. Geweef
+    * [Afrikaans][2_AFR_Poems]
+    * English: To follow.    
+6. Huppel
+    * [Afrikaans][3_AFR_Poems]
+    * English: To follow.    
+7. Om die draai
+    * [Afrikaans][4_AFR_Poems]
+    * English: To follow.    
+8. Ons Agterdam
+    * [Afrikaans][5_AFR_Poems]
+    * English: To follow.    
+9. So duif wat skyt
+    * [Afrikaans][6_AFR_Poems]
+    * English: To follow.    
+10. Soene
+    * [Afrikaans][7_AFR_Poems]
+    * English: To follow.    
+11. Wens weg
+    * [Afrikaans][8_AFR_Poems]
+    * English: To follow.    
 
 &nbsp;
 
 **Lyrics**
-* [Semonkong's Adam en Eva][1_AFR_Lyrics] (Afrikaans)
+* Semonkong's Adam en Eva
+    * [Afrikaans][1_AFR_Lyrics]
+    * English: To follow.    
 
----
+
+
+[comment]: All External URLs
+
 
 [1_Author]: https://twitter.com/dirkjobosman
 [2_Author]: https://twitter.com/pythonflow
