@@ -104,7 +104,7 @@
 [3_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
 
 
-[1_Tutorials]: https://dirkbosman.github.io/first-post
+[1_Tutorials]: https://pythonflow.github.io/articles/jupyter-publishing-from-google-colab
 
 [1_Travelstories]: https://github.com/dirkeehq/travelstories/blob/master/afrikaans/nag-uit-in-berlyn.md
 
