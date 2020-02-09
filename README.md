@@ -1,5 +1,5 @@
 
-### AUTHOR: [@dirkjobosman][1_Author]
+## AUTHOR: [@dirkjobosman][1_Author]
 
 &nbsp;
 
@@ -11,7 +11,7 @@
 
 ---
 
-### AUTHOR: [@pythonflow][2_Author]
+## AUTHOR: [@pythonflow][2_Author]
 
 &nbsp;
 
@@ -26,7 +26,7 @@
 
 ---
 
-### AUTHOR: [@dirkeedirkee][3_Author]
+## AUTHOR: [@dirkeedirkee][3_Author]
 
 &nbsp;
 
