@@ -1,4 +1,4 @@
-**Principles & Philosophies**
+**Principles**
 * To follow.
 
 ---
