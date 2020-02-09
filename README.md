@@ -1,13 +1,19 @@
 
 ### AUTHOR: [@dirkjobosman][1_Author]
 
+&nbsp;
+
 **Articles**
 * [Principles][1_Articles] (`Principles`, `Philosophies`, `Outlook`)
 * [Decision Frameworks][2_Articles] (`Decisions`, `Tips`, `Reflection`)
 
+&nbsp;
+
 ---
 
 ### AUTHOR: [@pythonflow][2_Author]
+
+&nbsp;
 
 **Tutorials**
 * [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (`Python`, `Google Colab`, `Blogging`)
@@ -16,9 +22,13 @@
 
 **Software**
 
+&nbsp;
+
 ---
 
 ### AUTHOR: [@dirkeedirkee][3_Author]
+
+&nbsp;
 
 **Principles**
 * To follow (`Philosophies`, `Outlook`, `Reasoning`)
@@ -78,6 +88,8 @@
 * Semonkong's Adam en Eva
     * [Afrikaans][1_AFR_Lyrics]
     * English: To follow.    
+
+&nbsp;
 
 
 [comment]: <> (All External URLs)
