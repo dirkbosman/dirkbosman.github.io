@@ -80,9 +80,7 @@
     * English: To follow.    
 
 
-
-[comment]: All External URLs
-
+[comment]: <> (All External URLs)
 
 [1_Author]: https://twitter.com/dirkjobosman
 [2_Author]: https://twitter.com/pythonflow
