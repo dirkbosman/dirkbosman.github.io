@@ -5,9 +5,8 @@
 
 **Articles**
 * [Principles][1_Articles] (`Principles`, `Philosophies`, `Outlook`)
-* [Decision Frameworks][2_Articles] (`Decisions`, `Tips`, `Reflection`)
-* Influencers (ZA & Abroad)
-
+* [Influencers][2_Articles] (`Life`,`Personal`,`Wisdom`)
+* [Decision Frameworks][3_Articles] (`Decisions`, `Tips`, `Reflection`)
 
 &nbsp;
 
@@ -100,9 +99,10 @@
 [2_Author]: https://twitter.com/pythonflow
 [3_Author]: https://twitter.com/dirkeedirkee
 
-
 [1_Articles]: https://github.com/dirkbosman/dirkbosman.github.io/blob/master/articles/principles.md
-[2_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
+[2_Articles]: https://github.com/dirkbosman/dirkbosman.github.io/blob/master/articles/influencers.md
+[3_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
+
 
 [1_Tutorials]: https://dirkbosman.github.io/first-post
 
