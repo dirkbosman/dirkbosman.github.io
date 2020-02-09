@@ -6,6 +6,8 @@
 **Articles**
 * [Principles][1_Articles] (`Principles`, `Philosophies`, `Outlook`)
 * [Decision Frameworks][2_Articles] (`Decisions`, `Tips`, `Reflection`)
+* Influencers (ZA & Abroad)
+
 
 &nbsp;
 
