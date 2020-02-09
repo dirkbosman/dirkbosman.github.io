@@ -1,9 +1,11 @@
-# Public Thoughts
-
 **Articles**
+* [Decision Frameworks][1_Articles] (Decisions, Time management, Reflection)
 
 **Travelstories**
-* AFR: https://github.com/dirkeehq/travelstories/blob/master/afrikaans/nag-uit-in-berlyn.md
+* ['n Nag uit in Berlyn][1_Travelstories] (Afrikaans, Berlyn, Techno)
+
+
+
 
 **Poems**
 * EN: https://github.com/dirkeehq/poems/blob/master/english/o-pencil-my-old-friend.md
@@ -33,7 +35,7 @@ https://dirkbosman.github.io/first-post
 
 
 
-1. [Stack Overflow][1] (number reference)
+* [Stack Overflow][1] (number reference)
 2. [Stack Overflow][so] (tagged reference)
 3. [Stack Overflow](http://stackoverflow.com) (direct reference)
 
@@ -41,4 +43,6 @@ https://dirkbosman.github.io/first-post
 [so]: http://stackoverflow.com
 
 
+[1_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
 
+[1_Travelstories]: https://github.com/dirkeehq/travelstories/blob/master/afrikaans/nag-uit-in-berlyn.md
