@@ -1,16 +1,16 @@
 **Principles**
-* To follow.
+* To follow. (Decisions, Time management, Article)(Author: @dirkjobosman)
 
 ---
 
 **Reflections**
-* [Decision Frameworks][1_Articles] (Decisions, Time management, Article)
+* [Decision Frameworks][1_Articles] (@dirkjobosman, Decisions, Time management, Article)
 * Tips
 
 ---
 
 **Tutorials**
-* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (Python, Google Colab, Blogging)
+* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (@pythonflow, Python, Google Colab, Blogging)
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 **Travelstories**
-* ['n Nag uit in Berlyn][1_Travelstories] (Afrikaans, Berlyn, Techno)
+* ['n Nag uit in Berlyn][1_Travelstories] (@dirkee, Afrikaans, Berlyn, Techno)
 
 ---
 
