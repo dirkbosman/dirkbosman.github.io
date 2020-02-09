@@ -1,26 +1,39 @@
-**Principles**
-* To follow (Philosophies, Outlook, Reasoning)
+
+AUTHOR: [@dirkjobosman][1_Author]
+
+**Articles**
+* [Principles][1_Articles] (Principles, Philosophies, Outlook)
+* [Decision Frameworks][2_Articles] (Decisions, Tips, Reflection)
 
 ---
 
-**Reflections**
-* [Decision Frameworks][1_Articles] by [@dirkjobosman][1_Author] (Decisions, Tips, Article)
-
----
+AUTHOR: [@pythonflow][2_Author]
 
 **Tutorials**
 * [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] by (Python, Google Colab, Blogging)
 
----
+&nbsp;
 
 **Software**
 
 ---
 
-**Travelstories**
+AUTHOR: [@dirkeedirkee][3_Author]
+
+**Principles**
+* To follow (Philosophies, Outlook, Reasoning)
+
+&nbsp;
+
+**Travel Stories**
 * ['n Nag uit in Berlyn][1_Travelstories] (@dirkee, Afrikaans, Berlyn, Techno)
 
----
+&nbsp;
+
+**Short Stories**
+* To follow.
+
+&nbsp;
 
 **Poems**
 * [O pencil my old friend][1_EN_Poems] (English)
@@ -35,7 +48,7 @@
 * [Soene][7_AFR_Poems] (Afrikaans)
 * [Wens weg][8_AFR_Poems] (Afrikaans)
 
----
+&nbsp;
 
 **Lyrics**
 * [Semonkong's Adam en Eva][1_AFR_Lyrics] (Afrikaans)
@@ -43,13 +56,12 @@
 ---
 
 [1_Author]: https://twitter.com/dirkjobosman
-[2_Author]: https://twitter.com/dirkjobosman
-[3_Author]: https://twitter.com/dirkjobosman
+[2_Author]: https://twitter.com/pythonflow
+[3_Author]: https://twitter.com/dirkeedirkee
 
 
-
-
-[1_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
+[1_Articles]: .....
+[2_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
 
 [1_Tutorials]: https://dirkbosman.github.io/first-post
 
