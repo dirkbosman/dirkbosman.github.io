@@ -101,7 +101,7 @@
 [3_Author]: https://twitter.com/dirkeedirkee
 
 
-[1_Articles]: .....
+[1_Articles]: https://github.com/dirkbosman/dirkbosman.github.io/blob/master/articles/principles.md
 [2_Articles]: https://fabricegrinda.com/a-framework-for-making-important-decisions-step-4-4/
 
 [1_Tutorials]: https://dirkbosman.github.io/first-post
