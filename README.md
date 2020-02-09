@@ -1,16 +1,16 @@
 **Principles**
-* To follow. (Decisions, Time management, Article)(Author: @dirkjobosman)
+* To follow (Philosophies, Outlook, Reasoning)(Author: [@dirkjobosman][1_Author])
 
 ---
 
 **Reflections**
-* [Decision Frameworks][1_Articles] (@dirkjobosman, Decisions, Time management, Article)
+* [Decision Frameworks][1_Articles] (Decisions, Time management, Article)(Author: @dirkjobosman)
 * Tips
 
 ---
 
 **Tutorials**
-* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (@pythonflow, Python, Google Colab, Blogging)
+* [Jupyter Publishing from Google Colab Notebooks][1_Tutorials] (Python, Google Colab, Blogging)(Author: @pythonflow)
 
 ---
 
@@ -41,6 +41,9 @@
 **Lyrics**
 * [Semonkong's Adam en Eva][1_AFR_Lyrics] (Afrikaans)
 
+---
+
+[@dirkjobosman]: https://twitter.com/dirkjobosman
 
 
 
