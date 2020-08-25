@@ -12,6 +12,14 @@
 
 ---
 
+## ⭐ Interwebs
+- ZDF's [Kräuterwanderung in Berlin](https://www.zdf.de/verbraucher/volle-kanne/sommer-in-deutschland-berlin-100.html)
+- RBB's [Berlin Heimatjournal] (https://www.rbb-online.de/heimatjournal/videos/planufer-kreuzberg.html)
+- Talking with [Prof Hiroshi Ishiguro](https://youtu.be/uD1CdjlrTBM)'s Robot: https://youtu.be/g3rR1WJ1vFc?t=3602
+- Meeting P&P's Raymond Ackerman
+
+---
+
 ## AUTHOR: [@pythonflow][2_Author]
 
 &nbsp;
